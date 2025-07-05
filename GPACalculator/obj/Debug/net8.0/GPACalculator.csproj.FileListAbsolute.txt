@@ -1,0 +1,15 @@
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.AssemblyInfoInputs.cache
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.AssemblyInfo.cs
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.csproj.CoreCompileInputs.cache
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.sourcelink.json
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/bin/Debug/net8.0/GPACalculator
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/bin/Debug/net8.0/GPACalculator.deps.json
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/bin/Debug/net8.0/GPACalculator.runtimeconfig.json
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/bin/Debug/net8.0/GPACalculator.dll
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/bin/Debug/net8.0/GPACalculator.pdb
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.dll
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/refint/GPACalculator.dll
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.pdb
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/GPACalculator.genruntimeconfig.cache
+/Users/chidubem/Desktop/Desktop/C# Projects/GPACalculator/obj/Debug/net8.0/ref/GPACalculator.dll
